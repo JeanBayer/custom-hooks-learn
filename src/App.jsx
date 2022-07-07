@@ -1,5 +1,9 @@
+import ToggleComponent from "./1-useToggle/ToggleComponent";
+
 function App() {
-  return <div>app</div>;
+  return <div>
+    <ToggleComponent />
+  </div>;
 }
 
 export default App;
